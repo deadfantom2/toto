@@ -9,7 +9,8 @@
 x = 5;
 y = 6;
 text = "Hello: "
-z = text + x + y;
+status = "Status="
+z = "status" + text + x + y;
 </code>
 
 </body>
