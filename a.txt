@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -16,4 +15,3 @@ z = "status" + text + x + y;
 </body>
 </html>
 *
-
