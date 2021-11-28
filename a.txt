@@ -8,7 +8,8 @@
 <code>
 x = 5;
 y = 6;
-z = x + y;
+text = "Hello: "
+z = text + x + y;
 </code>
 
 </body>
